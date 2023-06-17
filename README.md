@@ -36,6 +36,7 @@ As you can see, the cumulative probability of rolling a 6 increases as more succ
 
 A sample graph for a Cumulative distribution function:
 
+![alt text](example_CDF.png)
 ## Requirements
 
 * Python 3.x
