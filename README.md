@@ -34,6 +34,8 @@ In general, after n successful rolls, the cumulative probability P(X ≤ 6) will
 
 As you can see, the cumulative probability of rolling a 6 increases as more successful rolls are achieved. The denominator remains the same (6), while the numerator (n) increases with each successful try, indicating the number of times a 6 has been rolled.
 
+A sample graph for a Cumulative distribution function:
+
 ## Requirements
 
 * Python 3.x
